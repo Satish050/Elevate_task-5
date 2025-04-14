@@ -9,8 +9,6 @@ This project performs a detailed exploratory data analysis (EDA) on the [Titanic
 - [Libraries Used](#libraries-used)
 - [Key Steps](#key-steps)
 - [Findings](#findings)
-- [Usage](#usage)
-- [License](#license)
 
 ## Project Overview
 The goal of this project is to analyze the Titanic passenger data to:
